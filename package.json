@@ -1,0 +1,20 @@
+{
+    "name": "khantportfolio",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/utycc16/khantportfolio"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/utycc/khantportfolio/issues"
+    },
+    "homepage": "https://github.com/utycc16/khantportfolio"
+  }
